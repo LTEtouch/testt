@@ -43067,3 +43067,2020 @@ msgstr "Welches Studio veröffentlichte [B]%s[/B]?"
 msgctxt "#30406"
 msgid "What actor is this?"
 msgstr "Welcher Schauspieler ist das?"
+# Kodi Media Center language file
+# Addon Name: Movie Quiz
+# Addon id: script.moviequiz
+# Addon Provider: twinther
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: German (http://www.transifex.com/projects/p/xbmc-addons/language/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30000"
+msgid "Question %d of %d"
+msgstr "Frage %d von %d"
+
+msgctxt "#30001"
+msgid "Total Score:"
+msgstr "Richtig:"
+
+msgctxt "#30002"
+msgid "Question:"
+msgstr "Falsch:"
+
+msgctxt "#30003"
+msgid "Game Over"
+msgstr "Game Over"
+
+msgctxt "#30004"
+msgid "You scored %d of %d"
+msgstr "Du hast %d von %d"
+
+msgctxt "#30005"
+msgid "Specials"
+msgstr "Specials"
+
+msgctxt "#30006"
+msgid "Season %i"
+msgstr "Staffel %d"
+
+msgctxt "#30007"
+msgid "%B %e, %Y"
+msgstr "%B %e, %Y"
+
+msgctxt "#30008"
+msgid "[B]Loading[/B]"
+msgstr "[B]Lade...[/B]"
+
+msgctxt "#30010"
+msgid "Welcome to Movie Quiz, please enter your nickname:"
+msgstr "Willkommen, bitte wähle einen Spieler-Namen:"
+
+msgctxt "#30011"
+msgid "Replay"
+msgstr "Nochmal"
+
+msgctxt "#30012"
+msgid "Quit"
+msgstr "Verlassen"
+
+msgctxt "#30013"
+msgid "Your score:"
+msgstr "Deine Punkte:"
+
+msgctxt "#30014"
+msgid "Choose player"
+msgstr "Wähle Spieler"
+
+msgctxt "#30015"
+msgid "Add player"
+msgstr "Neuer Spieler"
+
+msgctxt "#30016"
+msgid "You must choose a player to play a game!"
+msgstr "Du musst einen Player wählen um ein Spiel zu spielen!"
+
+msgctxt "#30050"
+msgid "Warning"
+msgstr "Warnung"
+
+msgctxt "#30051"
+msgid "All movie questions types are disabled,"
+msgstr "Alle Film-Fragen sind deaktiviert,"
+
+msgctxt "#30052"
+msgid "All TV show questions types are disabled,"
+msgstr "Alle Serien-Fragen sind deaktiviert,"
+
+msgctxt "#30053"
+msgid "so this quiz type is not available."
+msgstr "dieser Spieltyp steht also nicht zur Verfügung."
+
+msgctxt "#30054"
+msgid "Missing requirements!"
+msgstr "Fehlende Vorraussetzungen!"
+
+msgctxt "#30055"
+msgid "To play the Movie Quiz you must have some movies"
+msgstr "Um das Movie Quiz zu spielen müssen Filme"
+
+msgctxt "#30056"
+msgid "or TV shows in your Video library."
+msgstr "oder Serien in der Datenbank vorhanden sein."
+
+msgctxt "#30057"
+msgid "See the Kodi wiki for information."
+msgstr "Prüfe die Kodi Wiki für weitere Informationen"
+
+msgctxt "#30058"
+msgid "Delete %s?"
+msgstr "%s löschen?"
+
+msgctxt "#30059"
+msgid "This will delete the user and all related"
+msgstr "Dies wird den Spieler und alle seine Punkte"
+
+msgctxt "#30060"
+msgid "highscores permanently!"
+msgstr "unwiederbringlich löschen!"
+
+msgctxt "#30061"
+msgid "None of your movies or TV shows are marked"
+msgstr "Keiner deiner Filme oder Serien-Episoden sind als"
+
+msgctxt "#30062"
+msgid "as watched, so the [I]Only use watched movies[/I]"
+msgstr "\"gesehen\" markiert, [I]zeige nur gesehene Filme[/I]"
+
+msgctxt "#30063"
+msgid "[I]in the questions[/I] setting will be disabled."
+msgstr "[I]in den Frage-[/I] Einstellungen wird deaktiviert."
+
+msgctxt "#30064"
+msgid "None of your movies has a MPAA rating, so the"
+msgstr "Keiner deiner Filme hat MPAA/FSK Eintragungen,"
+
+msgctxt "#30065"
+msgid "[I]Limit movie selection based on MPAA rating[/I]"
+msgstr "Die [I]Begrenze Filme nach Altersbeschränkung[/I]"
+
+msgctxt "#30066"
+msgid "setting will be disabled."
+msgstr "Einstellung wird deaktiviert."
+
+msgctxt "#30067"
+msgid "None of your movies has a Content rating, so the"
+msgstr "Keiner deiner Filme hat Content rating,"
+
+msgctxt "#30068"
+msgid "[I]Limit TV show selection based on Content rating[/I]"
+msgstr "Die [I]Begrenze Serien nach Content rating[/I]"
+
+msgctxt "#30069"
+msgid "setting will be disabled."
+msgstr "Einstellung wird deaktiviert."
+
+msgctxt "#30070"
+msgid "There was a problem accessing the Kodi database."
+msgstr "Es gab ein Problem mit dem Zugriff auf die Kodi Datenbank."
+
+msgctxt "#30071"
+msgid "The error message is:"
+msgstr "Die Fehlermeldung lautet:"
+
+msgctxt "#30100"
+msgid "Play Movie Quiz"
+msgstr "Film-Quiz spielen"
+
+msgctxt "#30101"
+msgid "Play TV Quiz"
+msgstr "Serien-Quiz spielen"
+
+msgctxt "#30102"
+msgid "Highscores"
+msgstr "Highscores"
+
+msgctxt "#30103"
+msgid "Exit"
+msgstr "Beenden"
+
+msgctxt "#30104"
+msgid "Change player"
+msgstr "Spieler wechseln"
+
+msgctxt "#30105"
+msgid "Go back"
+msgstr "Zurück"
+
+msgctxt "#30106"
+msgid "Play Music Quiz"
+msgstr "Musik Quiz spielen"
+
+msgctxt "#30110"
+msgid "[B]Movie collection trivia[/B]"
+msgstr "[B]Film Trivia[/B]"
+
+msgctxt "#30111"
+msgid "%d movies"
+msgstr "%d Filme"
+
+msgctxt "#30112"
+msgid "%d actors"
+msgstr "%d Schauspieler"
+
+msgctxt "#30113"
+msgid "%d directors"
+msgstr "%d Regisseure"
+
+msgctxt "#30114"
+msgid "%d studios"
+msgstr "%d Studios"
+
+msgctxt "#30115"
+msgid "%d hours of entertainment"
+msgstr "%d Stunden Unterhaltung"
+
+msgctxt "#30120"
+msgid "[B]TV shows collection trivia[/B]"
+msgstr "[B]TV Serien Trivia[/B]"
+
+msgctxt "#30121"
+msgid "%d TV shows"
+msgstr "%d TV Serien"
+
+msgctxt "#30122"
+msgid "%d seasons"
+msgstr "%d Staffeln"
+
+msgctxt "#30123"
+msgid "%d episodes"
+msgstr "%d Folgen"
+
+msgctxt "#30130"
+msgid "One minute"
+msgstr "Eine Minute"
+
+msgctxt "#30131"
+msgid "%s minutes"
+msgstr "%s Minuten"
+
+msgctxt "#30132"
+msgid "%s questions"
+msgstr "%s Fragen"
+
+msgctxt "#30133"
+msgid "%d questions left"
+msgstr "Noch %d Fragen"
+
+msgctxt "#30134"
+msgid "Last question"
+msgstr "Letzte Frage"
+
+msgctxt "#30135"
+msgid "%d mins. left"
+msgstr "Noch %d Minuten"
+
+msgctxt "#30400"
+msgid "What movie is this?"
+msgstr "Welcher Film ist das?"
+
+msgctxt "#30401"
+msgid "What movie is [B]%s[/B] not in?"
+msgstr "In welchem Film spielt [B]%s[/B] nicht mit?"
+
+msgctxt "#30402"
+msgid "What year was [B]%s[/B] released?"
+msgstr "In welchem Jahr wurde [B]%s[/B] veröffentlicht?"
+
+msgctxt "#30403"
+msgid "What tagline belongs to [B]%s[/B]?"
+msgstr "Welche Tagline gehört zu [B]%s[/B]?"
+
+msgctxt "#30404"
+msgid "Who directed [B]%s[/B]?"
+msgstr "Wer führte Regie bei [B]%s[/B]?"
+
+msgctxt "#30405"
+msgid "What studio released [B]%s[/B]?"
+msgstr "Welches Studio veröffentlichte [B]%s[/B]?"
+
+msgctxt "#30406"
+msgid "What actor is this?"
+msgstr "Welcher Schauspieler ist das?"# Kodi Media Center language file
+# Addon Name: Movie Quiz
+# Addon id: script.moviequiz
+# Addon Provider: twinther
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: German (http://www.transifex.com/projects/p/xbmc-addons/language/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30000"
+msgid "Question %d of %d"
+msgstr "Frage %d von %d"
+
+msgctxt "#30001"
+msgid "Total Score:"
+msgstr "Richtig:"
+
+msgctxt "#30002"
+msgid "Question:"
+msgstr "Falsch:"
+
+msgctxt "#30003"
+msgid "Game Over"
+msgstr "Game Over"
+
+msgctxt "#30004"
+msgid "You scored %d of %d"
+msgstr "Du hast %d von %d"
+
+msgctxt "#30005"
+msgid "Specials"
+msgstr "Specials"
+
+msgctxt "#30006"
+msgid "Season %i"
+msgstr "Staffel %d"
+
+msgctxt "#30007"
+msgid "%B %e, %Y"
+msgstr "%B %e, %Y"
+
+msgctxt "#30008"
+msgid "[B]Loading[/B]"
+msgstr "[B]Lade...[/B]"
+
+msgctxt "#30010"
+msgid "Welcome to Movie Quiz, please enter your nickname:"
+msgstr "Willkommen, bitte wähle einen Spieler-Namen:"
+
+msgctxt "#30011"
+msgid "Replay"
+msgstr "Nochmal"
+
+msgctxt "#30012"
+msgid "Quit"
+msgstr "Verlassen"
+
+msgctxt "#30013"
+msgid "Your score:"
+msgstr "Deine Punkte:"
+
+msgctxt "#30014"
+msgid "Choose player"
+msgstr "Wähle Spieler"
+
+msgctxt "#30015"
+msgid "Add player"
+msgstr "Neuer Spieler"
+
+msgctxt "#30016"
+msgid "You must choose a player to play a game!"
+msgstr "Du musst einen Player wählen um ein Spiel zu spielen!"
+
+msgctxt "#30050"
+msgid "Warning"
+msgstr "Warnung"
+
+msgctxt "#30051"
+msgid "All movie questions types are disabled,"
+msgstr "Alle Film-Fragen sind deaktiviert,"
+
+msgctxt "#30052"
+msgid "All TV show questions types are disabled,"
+msgstr "Alle Serien-Fragen sind deaktiviert,"
+
+msgctxt "#30053"
+msgid "so this quiz type is not available."
+msgstr "dieser Spieltyp steht also nicht zur Verfügung."
+
+msgctxt "#30054"
+msgid "Missing requirements!"
+msgstr "Fehlende Vorraussetzungen!"
+
+msgctxt "#30055"
+msgid "To play the Movie Quiz you must have some movies"
+msgstr "Um das Movie Quiz zu spielen müssen Filme"
+
+msgctxt "#30056"
+msgid "or TV shows in your Video library."
+msgstr "oder Serien in der Datenbank vorhanden sein."
+
+msgctxt "#30057"
+msgid "See the Kodi wiki for information."
+msgstr "Prüfe die Kodi Wiki für weitere Informationen"
+
+msgctxt "#30058"
+msgid "Delete %s?"
+msgstr "%s löschen?"
+
+msgctxt "#30059"
+msgid "This will delete the user and all related"
+msgstr "Dies wird den Spieler und alle seine Punkte"
+
+msgctxt "#30060"
+msgid "highscores permanently!"
+msgstr "unwiederbringlich löschen!"
+
+msgctxt "#30061"
+msgid "None of your movies or TV shows are marked"
+msgstr "Keiner deiner Filme oder Serien-Episoden sind als"
+
+msgctxt "#30062"
+msgid "as watched, so the [I]Only use watched movies[/I]"
+msgstr "\"gesehen\" markiert, [I]zeige nur gesehene Filme[/I]"
+
+msgctxt "#30063"
+msgid "[I]in the questions[/I] setting will be disabled."
+msgstr "[I]in den Frage-[/I] Einstellungen wird deaktiviert."
+
+msgctxt "#30064"
+msgid "None of your movies has a MPAA rating, so the"
+msgstr "Keiner deiner Filme hat MPAA/FSK Eintragungen,"
+
+msgctxt "#30065"
+msgid "[I]Limit movie selection based on MPAA rating[/I]"
+msgstr "Die [I]Begrenze Filme nach Altersbeschränkung[/I]"
+
+msgctxt "#30066"
+msgid "setting will be disabled."
+msgstr "Einstellung wird deaktiviert."
+
+msgctxt "#30067"
+msgid "None of your movies has a Content rating, so the"
+msgstr "Keiner deiner Filme hat Content rating,"
+
+msgctxt "#30068"
+msgid "[I]Limit TV show selection based on Content rating[/I]"
+msgstr "Die [I]Begrenze Serien nach Content rating[/I]"
+
+msgctxt "#30069"
+msgid "setting will be disabled."
+msgstr "Einstellung wird deaktiviert."
+
+msgctxt "#30070"
+msgid "There was a problem accessing the Kodi database."
+msgstr "Es gab ein Problem mit dem Zugriff auf die Kodi Datenbank."
+
+msgctxt "#30071"
+msgid "The error message is:"
+msgstr "Die Fehlermeldung lautet:"
+
+msgctxt "#30100"
+msgid "Play Movie Quiz"
+msgstr "Film-Quiz spielen"
+
+msgctxt "#30101"
+msgid "Play TV Quiz"
+msgstr "Serien-Quiz spielen"
+
+msgctxt "#30102"
+msgid "Highscores"
+msgstr "Highscores"
+
+msgctxt "#30103"
+msgid "Exit"
+msgstr "Beenden"
+
+msgctxt "#30104"
+msgid "Change player"
+msgstr "Spieler wechseln"
+
+msgctxt "#30105"
+msgid "Go back"
+msgstr "Zurück"
+
+msgctxt "#30106"
+msgid "Play Music Quiz"
+msgstr "Musik Quiz spielen"
+
+msgctxt "#30110"
+msgid "[B]Movie collection trivia[/B]"
+msgstr "[B]Film Trivia[/B]"
+
+msgctxt "#30111"
+msgid "%d movies"
+msgstr "%d Filme"
+
+msgctxt "#30112"
+msgid "%d actors"
+msgstr "%d Schauspieler"
+
+msgctxt "#30113"
+msgid "%d directors"
+msgstr "%d Regisseure"
+
+msgctxt "#30114"
+msgid "%d studios"
+msgstr "%d Studios"
+
+msgctxt "#30115"
+msgid "%d hours of entertainment"
+msgstr "%d Stunden Unterhaltung"
+
+msgctxt "#30120"
+msgid "[B]TV shows collection trivia[/B]"
+msgstr "[B]TV Serien Trivia[/B]"
+
+msgctxt "#30121"
+msgid "%d TV shows"
+msgstr "%d TV Serien"
+
+msgctxt "#30122"
+msgid "%d seasons"
+msgstr "%d Staffeln"
+
+msgctxt "#30123"
+msgid "%d episodes"
+msgstr "%d Folgen"
+
+msgctxt "#30130"
+msgid "One minute"
+msgstr "Eine Minute"
+
+msgctxt "#30131"
+msgid "%s minutes"
+msgstr "%s Minuten"
+
+msgctxt "#30132"
+msgid "%s questions"
+msgstr "%s Fragen"
+
+msgctxt "#30133"
+msgid "%d questions left"
+msgstr "Noch %d Fragen"
+
+msgctxt "#30134"
+msgid "Last question"
+msgstr "Letzte Frage"
+
+msgctxt "#30135"
+msgid "%d mins. left"
+msgstr "Noch %d Minuten"
+
+msgctxt "#30400"
+msgid "What movie is this?"
+msgstr "Welcher Film ist das?"
+
+msgctxt "#30401"
+msgid "What movie is [B]%s[/B] not in?"
+msgstr "In welchem Film spielt [B]%s[/B] nicht mit?"
+
+msgctxt "#30402"
+msgid "What year was [B]%s[/B] released?"
+msgstr "In welchem Jahr wurde [B]%s[/B] veröffentlicht?"
+
+msgctxt "#30403"
+msgid "What tagline belongs to [B]%s[/B]?"
+msgstr "Welche Tagline gehört zu [B]%s[/B]?"
+
+msgctxt "#30404"
+msgid "Who directed [B]%s[/B]?"
+msgstr "Wer führte Regie bei [B]%s[/B]?"
+
+msgctxt "#30405"
+msgid "What studio released [B]%s[/B]?"
+msgstr "Welches Studio veröffentlichte [B]%s[/B]?"
+
+msgctxt "#30406"
+msgid "What actor is this?"
+msgstr "Welcher Schauspieler ist das?"# Kodi Media Center language file
+# Addon Name: Movie Quiz
+# Addon id: script.moviequiz
+# Addon Provider: twinther
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: German (http://www.transifex.com/projects/p/xbmc-addons/language/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30000"
+msgid "Question %d of %d"
+msgstr "Frage %d von %d"
+
+msgctxt "#30001"
+msgid "Total Score:"
+msgstr "Richtig:"
+
+msgctxt "#30002"
+msgid "Question:"
+msgstr "Falsch:"
+
+msgctxt "#30003"
+msgid "Game Over"
+msgstr "Game Over"
+
+msgctxt "#30004"
+msgid "You scored %d of %d"
+msgstr "Du hast %d von %d"
+
+msgctxt "#30005"
+msgid "Specials"
+msgstr "Specials"
+
+msgctxt "#30006"
+msgid "Season %i"
+msgstr "Staffel %d"
+
+msgctxt "#30007"
+msgid "%B %e, %Y"
+msgstr "%B %e, %Y"
+
+msgctxt "#30008"
+msgid "[B]Loading[/B]"
+msgstr "[B]Lade...[/B]"
+
+msgctxt "#30010"
+msgid "Welcome to Movie Quiz, please enter your nickname:"
+msgstr "Willkommen, bitte wähle einen Spieler-Namen:"
+
+msgctxt "#30011"
+msgid "Replay"
+msgstr "Nochmal"
+
+msgctxt "#30012"
+msgid "Quit"
+msgstr "Verlassen"
+
+msgctxt "#30013"
+msgid "Your score:"
+msgstr "Deine Punkte:"
+
+msgctxt "#30014"
+msgid "Choose player"
+msgstr "Wähle Spieler"
+
+msgctxt "#30015"
+msgid "Add player"
+msgstr "Neuer Spieler"
+
+msgctxt "#30016"
+msgid "You must choose a player to play a game!"
+msgstr "Du musst einen Player wählen um ein Spiel zu spielen!"
+
+msgctxt "#30050"
+msgid "Warning"
+msgstr "Warnung"
+
+msgctxt "#30051"
+msgid "All movie questions types are disabled,"
+msgstr "Alle Film-Fragen sind deaktiviert,"
+
+msgctxt "#30052"
+msgid "All TV show questions types are disabled,"
+msgstr "Alle Serien-Fragen sind deaktiviert,"
+
+msgctxt "#30053"
+msgid "so this quiz type is not available."
+msgstr "dieser Spieltyp steht also nicht zur Verfügung."
+
+msgctxt "#30054"
+msgid "Missing requirements!"
+msgstr "Fehlende Vorraussetzungen!"
+
+msgctxt "#30055"
+msgid "To play the Movie Quiz you must have some movies"
+msgstr "Um das Movie Quiz zu spielen müssen Filme"
+
+msgctxt "#30056"
+msgid "or TV shows in your Video library."
+msgstr "oder Serien in der Datenbank vorhanden sein."
+
+msgctxt "#30057"
+msgid "See the Kodi wiki for information."
+msgstr "Prüfe die Kodi Wiki für weitere Informationen"
+
+msgctxt "#30058"
+msgid "Delete %s?"
+msgstr "%s löschen?"
+
+msgctxt "#30059"
+msgid "This will delete the user and all related"
+msgstr "Dies wird den Spieler und alle seine Punkte"
+
+msgctxt "#30060"
+msgid "highscores permanently!"
+msgstr "unwiederbringlich löschen!"
+
+msgctxt "#30061"
+msgid "None of your movies or TV shows are marked"
+msgstr "Keiner deiner Filme oder Serien-Episoden sind als"
+
+msgctxt "#30062"
+msgid "as watched, so the [I]Only use watched movies[/I]"
+msgstr "\"gesehen\" markiert, [I]zeige nur gesehene Filme[/I]"
+
+msgctxt "#30063"
+msgid "[I]in the questions[/I] setting will be disabled."
+msgstr "[I]in den Frage-[/I] Einstellungen wird deaktiviert."
+
+msgctxt "#30064"
+msgid "None of your movies has a MPAA rating, so the"
+msgstr "Keiner deiner Filme hat MPAA/FSK Eintragungen,"
+
+msgctxt "#30065"
+msgid "[I]Limit movie selection based on MPAA rating[/I]"
+msgstr "Die [I]Begrenze Filme nach Altersbeschränkung[/I]"
+
+msgctxt "#30066"
+msgid "setting will be disabled."
+msgstr "Einstellung wird deaktiviert."
+
+msgctxt "#30067"
+msgid "None of your movies has a Content rating, so the"
+msgstr "Keiner deiner Filme hat Content rating,"
+
+msgctxt "#30068"
+msgid "[I]Limit TV show selection based on Content rating[/I]"
+msgstr "Die [I]Begrenze Serien nach Content rating[/I]"
+
+msgctxt "#30069"
+msgid "setting will be disabled."
+msgstr "Einstellung wird deaktiviert."
+
+msgctxt "#30070"
+msgid "There was a problem accessing the Kodi database."
+msgstr "Es gab ein Problem mit dem Zugriff auf die Kodi Datenbank."
+
+msgctxt "#30071"
+msgid "The error message is:"
+msgstr "Die Fehlermeldung lautet:"
+
+msgctxt "#30100"
+msgid "Play Movie Quiz"
+msgstr "Film-Quiz spielen"
+
+msgctxt "#30101"
+msgid "Play TV Quiz"
+msgstr "Serien-Quiz spielen"
+
+msgctxt "#30102"
+msgid "Highscores"
+msgstr "Highscores"
+
+msgctxt "#30103"
+msgid "Exit"
+msgstr "Beenden"
+
+msgctxt "#30104"
+msgid "Change player"
+msgstr "Spieler wechseln"
+
+msgctxt "#30105"
+msgid "Go back"
+msgstr "Zurück"
+
+msgctxt "#30106"
+msgid "Play Music Quiz"
+msgstr "Musik Quiz spielen"
+
+msgctxt "#30110"
+msgid "[B]Movie collection trivia[/B]"
+msgstr "[B]Film Trivia[/B]"
+
+msgctxt "#30111"
+msgid "%d movies"
+msgstr "%d Filme"
+
+msgctxt "#30112"
+msgid "%d actors"
+msgstr "%d Schauspieler"
+
+msgctxt "#30113"
+msgid "%d directors"
+msgstr "%d Regisseure"
+
+msgctxt "#30114"
+msgid "%d studios"
+msgstr "%d Studios"
+
+msgctxt "#30115"
+msgid "%d hours of entertainment"
+msgstr "%d Stunden Unterhaltung"
+
+msgctxt "#30120"
+msgid "[B]TV shows collection trivia[/B]"
+msgstr "[B]TV Serien Trivia[/B]"
+
+msgctxt "#30121"
+msgid "%d TV shows"
+msgstr "%d TV Serien"
+
+msgctxt "#30122"
+msgid "%d seasons"
+msgstr "%d Staffeln"
+
+msgctxt "#30123"
+msgid "%d episodes"
+msgstr "%d Folgen"
+
+msgctxt "#30130"
+msgid "One minute"
+msgstr "Eine Minute"
+
+msgctxt "#30131"
+msgid "%s minutes"
+msgstr "%s Minuten"
+
+msgctxt "#30132"
+msgid "%s questions"
+msgstr "%s Fragen"
+
+msgctxt "#30133"
+msgid "%d questions left"
+msgstr "Noch %d Fragen"
+
+msgctxt "#30134"
+msgid "Last question"
+msgstr "Letzte Frage"
+
+msgctxt "#30135"
+msgid "%d mins. left"
+msgstr "Noch %d Minuten"
+
+msgctxt "#30400"
+msgid "What movie is this?"
+msgstr "Welcher Film ist das?"
+
+msgctxt "#30401"
+msgid "What movie is [B]%s[/B] not in?"
+msgstr "In welchem Film spielt [B]%s[/B] nicht mit?"
+
+msgctxt "#30402"
+msgid "What year was [B]%s[/B] released?"
+msgstr "In welchem Jahr wurde [B]%s[/B] veröffentlicht?"
+
+msgctxt "#30403"
+msgid "What tagline belongs to [B]%s[/B]?"
+msgstr "Welche Tagline gehört zu [B]%s[/B]?"
+
+msgctxt "#30404"
+msgid "Who directed [B]%s[/B]?"
+msgstr "Wer führte Regie bei [B]%s[/B]?"
+
+msgctxt "#30405"
+msgid "What studio released [B]%s[/B]?"
+msgstr "Welches Studio veröffentlichte [B]%s[/B]?"
+
+msgctxt "#30406"
+msgid "What actor is this?"
+msgstr "Welcher Schauspieler ist das?"# Kodi Media Center language file
+# Addon Name: Movie Quiz
+# Addon id: script.moviequiz
+# Addon Provider: twinther
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: German (http://www.transifex.com/projects/p/xbmc-addons/language/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30000"
+msgid "Question %d of %d"
+msgstr "Frage %d von %d"
+
+msgctxt "#30001"
+msgid "Total Score:"
+msgstr "Richtig:"
+
+msgctxt "#30002"
+msgid "Question:"
+msgstr "Falsch:"
+
+msgctxt "#30003"
+msgid "Game Over"
+msgstr "Game Over"
+
+msgctxt "#30004"
+msgid "You scored %d of %d"
+msgstr "Du hast %d von %d"
+
+msgctxt "#30005"
+msgid "Specials"
+msgstr "Specials"
+
+msgctxt "#30006"
+msgid "Season %i"
+msgstr "Staffel %d"
+
+msgctxt "#30007"
+msgid "%B %e, %Y"
+msgstr "%B %e, %Y"
+
+msgctxt "#30008"
+msgid "[B]Loading[/B]"
+msgstr "[B]Lade...[/B]"
+
+msgctxt "#30010"
+msgid "Welcome to Movie Quiz, please enter your nickname:"
+msgstr "Willkommen, bitte wähle einen Spieler-Namen:"
+
+msgctxt "#30011"
+msgid "Replay"
+msgstr "Nochmal"
+
+msgctxt "#30012"
+msgid "Quit"
+msgstr "Verlassen"
+
+msgctxt "#30013"
+msgid "Your score:"
+msgstr "Deine Punkte:"
+
+msgctxt "#30014"
+msgid "Choose player"
+msgstr "Wähle Spieler"
+
+msgctxt "#30015"
+msgid "Add player"
+msgstr "Neuer Spieler"
+
+msgctxt "#30016"
+msgid "You must choose a player to play a game!"
+msgstr "Du musst einen Player wählen um ein Spiel zu spielen!"
+
+msgctxt "#30050"
+msgid "Warning"
+msgstr "Warnung"
+
+msgctxt "#30051"
+msgid "All movie questions types are disabled,"
+msgstr "Alle Film-Fragen sind deaktiviert,"
+
+msgctxt "#30052"
+msgid "All TV show questions types are disabled,"
+msgstr "Alle Serien-Fragen sind deaktiviert,"
+
+msgctxt "#30053"
+msgid "so this quiz type is not available."
+msgstr "dieser Spieltyp steht also nicht zur Verfügung."
+
+msgctxt "#30054"
+msgid "Missing requirements!"
+msgstr "Fehlende Vorraussetzungen!"
+
+msgctxt "#30055"
+msgid "To play the Movie Quiz you must have some movies"
+msgstr "Um das Movie Quiz zu spielen müssen Filme"
+
+msgctxt "#30056"
+msgid "or TV shows in your Video library."
+msgstr "oder Serien in der Datenbank vorhanden sein."
+
+msgctxt "#30057"
+msgid "See the Kodi wiki for information."
+msgstr "Prüfe die Kodi Wiki für weitere Informationen"
+
+msgctxt "#30058"
+msgid "Delete %s?"
+msgstr "%s löschen?"
+
+msgctxt "#30059"
+msgid "This will delete the user and all related"
+msgstr "Dies wird den Spieler und alle seine Punkte"
+
+msgctxt "#30060"
+msgid "highscores permanently!"
+msgstr "unwiederbringlich löschen!"
+
+msgctxt "#30061"
+msgid "None of your movies or TV shows are marked"
+msgstr "Keiner deiner Filme oder Serien-Episoden sind als"
+
+msgctxt "#30062"
+msgid "as watched, so the [I]Only use watched movies[/I]"
+msgstr "\"gesehen\" markiert, [I]zeige nur gesehene Filme[/I]"
+
+msgctxt "#30063"
+msgid "[I]in the questions[/I] setting will be disabled."
+msgstr "[I]in den Frage-[/I] Einstellungen wird deaktiviert."
+
+msgctxt "#30064"
+msgid "None of your movies has a MPAA rating, so the"
+msgstr "Keiner deiner Filme hat MPAA/FSK Eintragungen,"
+
+msgctxt "#30065"
+msgid "[I]Limit movie selection based on MPAA rating[/I]"
+msgstr "Die [I]Begrenze Filme nach Altersbeschränkung[/I]"
+
+msgctxt "#30066"
+msgid "setting will be disabled."
+msgstr "Einstellung wird deaktiviert."
+
+msgctxt "#30067"
+msgid "None of your movies has a Content rating, so the"
+msgstr "Keiner deiner Filme hat Content rating,"
+
+msgctxt "#30068"
+msgid "[I]Limit TV show selection based on Content rating[/I]"
+msgstr "Die [I]Begrenze Serien nach Content rating[/I]"
+
+msgctxt "#30069"
+msgid "setting will be disabled."
+msgstr "Einstellung wird deaktiviert."
+
+msgctxt "#30070"
+msgid "There was a problem accessing the Kodi database."
+msgstr "Es gab ein Problem mit dem Zugriff auf die Kodi Datenbank."
+
+msgctxt "#30071"
+msgid "The error message is:"
+msgstr "Die Fehlermeldung lautet:"
+
+msgctxt "#30100"
+msgid "Play Movie Quiz"
+msgstr "Film-Quiz spielen"
+
+msgctxt "#30101"
+msgid "Play TV Quiz"
+msgstr "Serien-Quiz spielen"
+
+msgctxt "#30102"
+msgid "Highscores"
+msgstr "Highscores"
+
+msgctxt "#30103"
+msgid "Exit"
+msgstr "Beenden"
+
+msgctxt "#30104"
+msgid "Change player"
+msgstr "Spieler wechseln"
+
+msgctxt "#30105"
+msgid "Go back"
+msgstr "Zurück"
+
+msgctxt "#30106"
+msgid "Play Music Quiz"
+msgstr "Musik Quiz spielen"
+
+msgctxt "#30110"
+msgid "[B]Movie collection trivia[/B]"
+msgstr "[B]Film Trivia[/B]"
+
+msgctxt "#30111"
+msgid "%d movies"
+msgstr "%d Filme"
+
+msgctxt "#30112"
+msgid "%d actors"
+msgstr "%d Schauspieler"
+
+msgctxt "#30113"
+msgid "%d directors"
+msgstr "%d Regisseure"
+
+msgctxt "#30114"
+msgid "%d studios"
+msgstr "%d Studios"
+
+msgctxt "#30115"
+msgid "%d hours of entertainment"
+msgstr "%d Stunden Unterhaltung"
+
+msgctxt "#30120"
+msgid "[B]TV shows collection trivia[/B]"
+msgstr "[B]TV Serien Trivia[/B]"
+
+msgctxt "#30121"
+msgid "%d TV shows"
+msgstr "%d TV Serien"
+
+msgctxt "#30122"
+msgid "%d seasons"
+msgstr "%d Staffeln"
+
+msgctxt "#30123"
+msgid "%d episodes"
+msgstr "%d Folgen"
+
+msgctxt "#30130"
+msgid "One minute"
+msgstr "Eine Minute"
+
+msgctxt "#30131"
+msgid "%s minutes"
+msgstr "%s Minuten"
+
+msgctxt "#30132"
+msgid "%s questions"
+msgstr "%s Fragen"
+
+msgctxt "#30133"
+msgid "%d questions left"
+msgstr "Noch %d Fragen"
+
+msgctxt "#30134"
+msgid "Last question"
+msgstr "Letzte Frage"
+
+msgctxt "#30135"
+msgid "%d mins. left"
+msgstr "Noch %d Minuten"
+
+msgctxt "#30400"
+msgid "What movie is this?"
+msgstr "Welcher Film ist das?"
+
+msgctxt "#30401"
+msgid "What movie is [B]%s[/B] not in?"
+msgstr "In welchem Film spielt [B]%s[/B] nicht mit?"
+
+msgctxt "#30402"
+msgid "What year was [B]%s[/B] released?"
+msgstr "In welchem Jahr wurde [B]%s[/B] veröffentlicht?"
+
+msgctxt "#30403"
+msgid "What tagline belongs to [B]%s[/B]?"
+msgstr "Welche Tagline gehört zu [B]%s[/B]?"
+
+msgctxt "#30404"
+msgid "Who directed [B]%s[/B]?"
+msgstr "Wer führte Regie bei [B]%s[/B]?"
+
+msgctxt "#30405"
+msgid "What studio released [B]%s[/B]?"
+msgstr "Welches Studio veröffentlichte [B]%s[/B]?"
+
+msgctxt "#30406"
+msgid "What actor is this?"
+msgstr "Welcher Schauspieler ist das?"# Kodi Media Center language file
+# Addon Name: Movie Quiz
+# Addon id: script.moviequiz
+# Addon Provider: twinther
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: German (http://www.transifex.com/projects/p/xbmc-addons/language/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30000"
+msgid "Question %d of %d"
+msgstr "Frage %d von %d"
+
+msgctxt "#30001"
+msgid "Total Score:"
+msgstr "Richtig:"
+
+msgctxt "#30002"
+msgid "Question:"
+msgstr "Falsch:"
+
+msgctxt "#30003"
+msgid "Game Over"
+msgstr "Game Over"
+
+msgctxt "#30004"
+msgid "You scored %d of %d"
+msgstr "Du hast %d von %d"
+
+msgctxt "#30005"
+msgid "Specials"
+msgstr "Specials"
+
+msgctxt "#30006"
+msgid "Season %i"
+msgstr "Staffel %d"
+
+msgctxt "#30007"
+msgid "%B %e, %Y"
+msgstr "%B %e, %Y"
+
+msgctxt "#30008"
+msgid "[B]Loading[/B]"
+msgstr "[B]Lade...[/B]"
+
+msgctxt "#30010"
+msgid "Welcome to Movie Quiz, please enter your nickname:"
+msgstr "Willkommen, bitte wähle einen Spieler-Namen:"
+
+msgctxt "#30011"
+msgid "Replay"
+msgstr "Nochmal"
+
+msgctxt "#30012"
+msgid "Quit"
+msgstr "Verlassen"
+
+msgctxt "#30013"
+msgid "Your score:"
+msgstr "Deine Punkte:"
+
+msgctxt "#30014"
+msgid "Choose player"
+msgstr "Wähle Spieler"
+
+msgctxt "#30015"
+msgid "Add player"
+msgstr "Neuer Spieler"
+
+msgctxt "#30016"
+msgid "You must choose a player to play a game!"
+msgstr "Du musst einen Player wählen um ein Spiel zu spielen!"
+
+msgctxt "#30050"
+msgid "Warning"
+msgstr "Warnung"
+
+msgctxt "#30051"
+msgid "All movie questions types are disabled,"
+msgstr "Alle Film-Fragen sind deaktiviert,"
+
+msgctxt "#30052"
+msgid "All TV show questions types are disabled,"
+msgstr "Alle Serien-Fragen sind deaktiviert,"
+
+msgctxt "#30053"
+msgid "so this quiz type is not available."
+msgstr "dieser Spieltyp steht also nicht zur Verfügung."
+
+msgctxt "#30054"
+msgid "Missing requirements!"
+msgstr "Fehlende Vorraussetzungen!"
+
+msgctxt "#30055"
+msgid "To play the Movie Quiz you must have some movies"
+msgstr "Um das Movie Quiz zu spielen müssen Filme"
+
+msgctxt "#30056"
+msgid "or TV shows in your Video library."
+msgstr "oder Serien in der Datenbank vorhanden sein."
+
+msgctxt "#30057"
+msgid "See the Kodi wiki for information."
+msgstr "Prüfe die Kodi Wiki für weitere Informationen"
+
+msgctxt "#30058"
+msgid "Delete %s?"
+msgstr "%s löschen?"
+
+msgctxt "#30059"
+msgid "This will delete the user and all related"
+msgstr "Dies wird den Spieler und alle seine Punkte"
+
+msgctxt "#30060"
+msgid "highscores permanently!"
+msgstr "unwiederbringlich löschen!"
+
+msgctxt "#30061"
+msgid "None of your movies or TV shows are marked"
+msgstr "Keiner deiner Filme oder Serien-Episoden sind als"
+
+msgctxt "#30062"
+msgid "as watched, so the [I]Only use watched movies[/I]"
+msgstr "\"gesehen\" markiert, [I]zeige nur gesehene Filme[/I]"
+
+msgctxt "#30063"
+msgid "[I]in the questions[/I] setting will be disabled."
+msgstr "[I]in den Frage-[/I] Einstellungen wird deaktiviert."
+
+msgctxt "#30064"
+msgid "None of your movies has a MPAA rating, so the"
+msgstr "Keiner deiner Filme hat MPAA/FSK Eintragungen,"
+
+msgctxt "#30065"
+msgid "[I]Limit movie selection based on MPAA rating[/I]"
+msgstr "Die [I]Begrenze Filme nach Altersbeschränkung[/I]"
+
+msgctxt "#30066"
+msgid "setting will be disabled."
+msgstr "Einstellung wird deaktiviert."
+
+msgctxt "#30067"
+msgid "None of your movies has a Content rating, so the"
+msgstr "Keiner deiner Filme hat Content rating,"
+
+msgctxt "#30068"
+msgid "[I]Limit TV show selection based on Content rating[/I]"
+msgstr "Die [I]Begrenze Serien nach Content rating[/I]"
+
+msgctxt "#30069"
+msgid "setting will be disabled."
+msgstr "Einstellung wird deaktiviert."
+
+msgctxt "#30070"
+msgid "There was a problem accessing the Kodi database."
+msgstr "Es gab ein Problem mit dem Zugriff auf die Kodi Datenbank."
+
+msgctxt "#30071"
+msgid "The error message is:"
+msgstr "Die Fehlermeldung lautet:"
+
+msgctxt "#30100"
+msgid "Play Movie Quiz"
+msgstr "Film-Quiz spielen"
+
+msgctxt "#30101"
+msgid "Play TV Quiz"
+msgstr "Serien-Quiz spielen"
+
+msgctxt "#30102"
+msgid "Highscores"
+msgstr "Highscores"
+
+msgctxt "#30103"
+msgid "Exit"
+msgstr "Beenden"
+
+msgctxt "#30104"
+msgid "Change player"
+msgstr "Spieler wechseln"
+
+msgctxt "#30105"
+msgid "Go back"
+msgstr "Zurück"
+
+msgctxt "#30106"
+msgid "Play Music Quiz"
+msgstr "Musik Quiz spielen"
+
+msgctxt "#30110"
+msgid "[B]Movie collection trivia[/B]"
+msgstr "[B]Film Trivia[/B]"
+
+msgctxt "#30111"
+msgid "%d movies"
+msgstr "%d Filme"
+
+msgctxt "#30112"
+msgid "%d actors"
+msgstr "%d Schauspieler"
+
+msgctxt "#30113"
+msgid "%d directors"
+msgstr "%d Regisseure"
+
+msgctxt "#30114"
+msgid "%d studios"
+msgstr "%d Studios"
+
+msgctxt "#30115"
+msgid "%d hours of entertainment"
+msgstr "%d Stunden Unterhaltung"
+
+msgctxt "#30120"
+msgid "[B]TV shows collection trivia[/B]"
+msgstr "[B]TV Serien Trivia[/B]"
+
+msgctxt "#30121"
+msgid "%d TV shows"
+msgstr "%d TV Serien"
+
+msgctxt "#30122"
+msgid "%d seasons"
+msgstr "%d Staffeln"
+
+msgctxt "#30123"
+msgid "%d episodes"
+msgstr "%d Folgen"
+
+msgctxt "#30130"
+msgid "One minute"
+msgstr "Eine Minute"
+
+msgctxt "#30131"
+msgid "%s minutes"
+msgstr "%s Minuten"
+
+msgctxt "#30132"
+msgid "%s questions"
+msgstr "%s Fragen"
+
+msgctxt "#30133"
+msgid "%d questions left"
+msgstr "Noch %d Fragen"
+
+msgctxt "#30134"
+msgid "Last question"
+msgstr "Letzte Frage"
+
+msgctxt "#30135"
+msgid "%d mins. left"
+msgstr "Noch %d Minuten"
+
+msgctxt "#30400"
+msgid "What movie is this?"
+msgstr "Welcher Film ist das?"
+
+msgctxt "#30401"
+msgid "What movie is [B]%s[/B] not in?"
+msgstr "In welchem Film spielt [B]%s[/B] nicht mit?"
+
+msgctxt "#30402"
+msgid "What year was [B]%s[/B] released?"
+msgstr "In welchem Jahr wurde [B]%s[/B] veröffentlicht?"
+
+msgctxt "#30403"
+msgid "What tagline belongs to [B]%s[/B]?"
+msgstr "Welche Tagline gehört zu [B]%s[/B]?"
+
+msgctxt "#30404"
+msgid "Who directed [B]%s[/B]?"
+msgstr "Wer führte Regie bei [B]%s[/B]?"
+
+msgctxt "#30405"
+msgid "What studio released [B]%s[/B]?"
+msgstr "Welches Studio veröffentlichte [B]%s[/B]?"
+
+msgctxt "#30406"
+msgid "What actor is this?"
+msgstr "Welcher Schauspieler ist das?"# Kodi Media Center language file
+# Addon Name: Movie Quiz
+# Addon id: script.moviequiz
+# Addon Provider: twinther
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: German (http://www.transifex.com/projects/p/xbmc-addons/language/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30000"
+msgid "Question %d of %d"
+msgstr "Frage %d von %d"
+
+msgctxt "#30001"
+msgid "Total Score:"
+msgstr "Richtig:"
+
+msgctxt "#30002"
+msgid "Question:"
+msgstr "Falsch:"
+
+msgctxt "#30003"
+msgid "Game Over"
+msgstr "Game Over"
+
+msgctxt "#30004"
+msgid "You scored %d of %d"
+msgstr "Du hast %d von %d"
+
+msgctxt "#30005"
+msgid "Specials"
+msgstr "Specials"
+
+msgctxt "#30006"
+msgid "Season %i"
+msgstr "Staffel %d"
+
+msgctxt "#30007"
+msgid "%B %e, %Y"
+msgstr "%B %e, %Y"
+
+msgctxt "#30008"
+msgid "[B]Loading[/B]"
+msgstr "[B]Lade...[/B]"
+
+msgctxt "#30010"
+msgid "Welcome to Movie Quiz, please enter your nickname:"
+msgstr "Willkommen, bitte wähle einen Spieler-Namen:"
+
+msgctxt "#30011"
+msgid "Replay"
+msgstr "Nochmal"
+
+msgctxt "#30012"
+msgid "Quit"
+msgstr "Verlassen"
+
+msgctxt "#30013"
+msgid "Your score:"
+msgstr "Deine Punkte:"
+
+msgctxt "#30014"
+msgid "Choose player"
+msgstr "Wähle Spieler"
+
+msgctxt "#30015"
+msgid "Add player"
+msgstr "Neuer Spieler"
+
+msgctxt "#30016"
+msgid "You must choose a player to play a game!"
+msgstr "Du musst einen Player wählen um ein Spiel zu spielen!"
+
+msgctxt "#30050"
+msgid "Warning"
+msgstr "Warnung"
+
+msgctxt "#30051"
+msgid "All movie questions types are disabled,"
+msgstr "Alle Film-Fragen sind deaktiviert,"
+
+msgctxt "#30052"
+msgid "All TV show questions types are disabled,"
+msgstr "Alle Serien-Fragen sind deaktiviert,"
+
+msgctxt "#30053"
+msgid "so this quiz type is not available."
+msgstr "dieser Spieltyp steht also nicht zur Verfügung."
+
+msgctxt "#30054"
+msgid "Missing requirements!"
+msgstr "Fehlende Vorraussetzungen!"
+
+msgctxt "#30055"
+msgid "To play the Movie Quiz you must have some movies"
+msgstr "Um das Movie Quiz zu spielen müssen Filme"
+
+msgctxt "#30056"
+msgid "or TV shows in your Video library."
+msgstr "oder Serien in der Datenbank vorhanden sein."
+
+msgctxt "#30057"
+msgid "See the Kodi wiki for information."
+msgstr "Prüfe die Kodi Wiki für weitere Informationen"
+
+msgctxt "#30058"
+msgid "Delete %s?"
+msgstr "%s löschen?"
+
+msgctxt "#30059"
+msgid "This will delete the user and all related"
+msgstr "Dies wird den Spieler und alle seine Punkte"
+
+msgctxt "#30060"
+msgid "highscores permanently!"
+msgstr "unwiederbringlich löschen!"
+
+msgctxt "#30061"
+msgid "None of your movies or TV shows are marked"
+msgstr "Keiner deiner Filme oder Serien-Episoden sind als"
+
+msgctxt "#30062"
+msgid "as watched, so the [I]Only use watched movies[/I]"
+msgstr "\"gesehen\" markiert, [I]zeige nur gesehene Filme[/I]"
+
+msgctxt "#30063"
+msgid "[I]in the questions[/I] setting will be disabled."
+msgstr "[I]in den Frage-[/I] Einstellungen wird deaktiviert."
+
+msgctxt "#30064"
+msgid "None of your movies has a MPAA rating, so the"
+msgstr "Keiner deiner Filme hat MPAA/FSK Eintragungen,"
+
+msgctxt "#30065"
+msgid "[I]Limit movie selection based on MPAA rating[/I]"
+msgstr "Die [I]Begrenze Filme nach Altersbeschränkung[/I]"
+
+msgctxt "#30066"
+msgid "setting will be disabled."
+msgstr "Einstellung wird deaktiviert."
+
+msgctxt "#30067"
+msgid "None of your movies has a Content rating, so the"
+msgstr "Keiner deiner Filme hat Content rating,"
+
+msgctxt "#30068"
+msgid "[I]Limit TV show selection based on Content rating[/I]"
+msgstr "Die [I]Begrenze Serien nach Content rating[/I]"
+
+msgctxt "#30069"
+msgid "setting will be disabled."
+msgstr "Einstellung wird deaktiviert."
+
+msgctxt "#30070"
+msgid "There was a problem accessing the Kodi database."
+msgstr "Es gab ein Problem mit dem Zugriff auf die Kodi Datenbank."
+
+msgctxt "#30071"
+msgid "The error message is:"
+msgstr "Die Fehlermeldung lautet:"
+
+msgctxt "#30100"
+msgid "Play Movie Quiz"
+msgstr "Film-Quiz spielen"
+
+msgctxt "#30101"
+msgid "Play TV Quiz"
+msgstr "Serien-Quiz spielen"
+
+msgctxt "#30102"
+msgid "Highscores"
+msgstr "Highscores"
+
+msgctxt "#30103"
+msgid "Exit"
+msgstr "Beenden"
+
+msgctxt "#30104"
+msgid "Change player"
+msgstr "Spieler wechseln"
+
+msgctxt "#30105"
+msgid "Go back"
+msgstr "Zurück"
+
+msgctxt "#30106"
+msgid "Play Music Quiz"
+msgstr "Musik Quiz spielen"
+
+msgctxt "#30110"
+msgid "[B]Movie collection trivia[/B]"
+msgstr "[B]Film Trivia[/B]"
+
+msgctxt "#30111"
+msgid "%d movies"
+msgstr "%d Filme"
+
+msgctxt "#30112"
+msgid "%d actors"
+msgstr "%d Schauspieler"
+
+msgctxt "#30113"
+msgid "%d directors"
+msgstr "%d Regisseure"
+
+msgctxt "#30114"
+msgid "%d studios"
+msgstr "%d Studios"
+
+msgctxt "#30115"
+msgid "%d hours of entertainment"
+msgstr "%d Stunden Unterhaltung"
+
+msgctxt "#30120"
+msgid "[B]TV shows collection trivia[/B]"
+msgstr "[B]TV Serien Trivia[/B]"
+
+msgctxt "#30121"
+msgid "%d TV shows"
+msgstr "%d TV Serien"
+
+msgctxt "#30122"
+msgid "%d seasons"
+msgstr "%d Staffeln"
+
+msgctxt "#30123"
+msgid "%d episodes"
+msgstr "%d Folgen"
+
+msgctxt "#30130"
+msgid "One minute"
+msgstr "Eine Minute"
+
+msgctxt "#30131"
+msgid "%s minutes"
+msgstr "%s Minuten"
+
+msgctxt "#30132"
+msgid "%s questions"
+msgstr "%s Fragen"
+
+msgctxt "#30133"
+msgid "%d questions left"
+msgstr "Noch %d Fragen"
+
+msgctxt "#30134"
+msgid "Last question"
+msgstr "Letzte Frage"
+
+msgctxt "#30135"
+msgid "%d mins. left"
+msgstr "Noch %d Minuten"
+
+msgctxt "#30400"
+msgid "What movie is this?"
+msgstr "Welcher Film ist das?"
+
+msgctxt "#30401"
+msgid "What movie is [B]%s[/B] not in?"
+msgstr "In welchem Film spielt [B]%s[/B] nicht mit?"
+
+msgctxt "#30402"
+msgid "What year was [B]%s[/B] released?"
+msgstr "In welchem Jahr wurde [B]%s[/B] veröffentlicht?"
+
+msgctxt "#30403"
+msgid "What tagline belongs to [B]%s[/B]?"
+msgstr "Welche Tagline gehört zu [B]%s[/B]?"
+
+msgctxt "#30404"
+msgid "Who directed [B]%s[/B]?"
+msgstr "Wer führte Regie bei [B]%s[/B]?"
+
+msgctxt "#30405"
+msgid "What studio released [B]%s[/B]?"
+msgstr "Welches Studio veröffentlichte [B]%s[/B]?"
+
+msgctxt "#30406"
+msgid "What actor is this?"
+msgstr "Welcher Schauspieler ist das?"# Kodi Media Center language file
+# Addon Name: Movie Quiz
+# Addon id: script.moviequiz
+# Addon Provider: twinther
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: German (http://www.transifex.com/projects/p/xbmc-addons/language/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30000"
+msgid "Question %d of %d"
+msgstr "Frage %d von %d"
+
+msgctxt "#30001"
+msgid "Total Score:"
+msgstr "Richtig:"
+
+msgctxt "#30002"
+msgid "Question:"
+msgstr "Falsch:"
+
+msgctxt "#30003"
+msgid "Game Over"
+msgstr "Game Over"
+
+msgctxt "#30004"
+msgid "You scored %d of %d"
+msgstr "Du hast %d von %d"
+
+msgctxt "#30005"
+msgid "Specials"
+msgstr "Specials"
+
+msgctxt "#30006"
+msgid "Season %i"
+msgstr "Staffel %d"
+
+msgctxt "#30007"
+msgid "%B %e, %Y"
+msgstr "%B %e, %Y"
+
+msgctxt "#30008"
+msgid "[B]Loading[/B]"
+msgstr "[B]Lade...[/B]"
+
+msgctxt "#30010"
+msgid "Welcome to Movie Quiz, please enter your nickname:"
+msgstr "Willkommen, bitte wähle einen Spieler-Namen:"
+
+msgctxt "#30011"
+msgid "Replay"
+msgstr "Nochmal"
+
+msgctxt "#30012"
+msgid "Quit"
+msgstr "Verlassen"
+
+msgctxt "#30013"
+msgid "Your score:"
+msgstr "Deine Punkte:"
+
+msgctxt "#30014"
+msgid "Choose player"
+msgstr "Wähle Spieler"
+
+msgctxt "#30015"
+msgid "Add player"
+msgstr "Neuer Spieler"
+
+msgctxt "#30016"
+msgid "You must choose a player to play a game!"
+msgstr "Du musst einen Player wählen um ein Spiel zu spielen!"
+
+msgctxt "#30050"
+msgid "Warning"
+msgstr "Warnung"
+
+msgctxt "#30051"
+msgid "All movie questions types are disabled,"
+msgstr "Alle Film-Fragen sind deaktiviert,"
+
+msgctxt "#30052"
+msgid "All TV show questions types are disabled,"
+msgstr "Alle Serien-Fragen sind deaktiviert,"
+
+msgctxt "#30053"
+msgid "so this quiz type is not available."
+msgstr "dieser Spieltyp steht also nicht zur Verfügung."
+
+msgctxt "#30054"
+msgid "Missing requirements!"
+msgstr "Fehlende Vorraussetzungen!"
+
+msgctxt "#30055"
+msgid "To play the Movie Quiz you must have some movies"
+msgstr "Um das Movie Quiz zu spielen müssen Filme"
+
+msgctxt "#30056"
+msgid "or TV shows in your Video library."
+msgstr "oder Serien in der Datenbank vorhanden sein."
+
+msgctxt "#30057"
+msgid "See the Kodi wiki for information."
+msgstr "Prüfe die Kodi Wiki für weitere Informationen"
+
+msgctxt "#30058"
+msgid "Delete %s?"
+msgstr "%s löschen?"
+
+msgctxt "#30059"
+msgid "This will delete the user and all related"
+msgstr "Dies wird den Spieler und alle seine Punkte"
+
+msgctxt "#30060"
+msgid "highscores permanently!"
+msgstr "unwiederbringlich löschen!"
+
+msgctxt "#30061"
+msgid "None of your movies or TV shows are marked"
+msgstr "Keiner deiner Filme oder Serien-Episoden sind als"
+
+msgctxt "#30062"
+msgid "as watched, so the [I]Only use watched movies[/I]"
+msgstr "\"gesehen\" markiert, [I]zeige nur gesehene Filme[/I]"
+
+msgctxt "#30063"
+msgid "[I]in the questions[/I] setting will be disabled."
+msgstr "[I]in den Frage-[/I] Einstellungen wird deaktiviert."
+
+msgctxt "#30064"
+msgid "None of your movies has a MPAA rating, so the"
+msgstr "Keiner deiner Filme hat MPAA/FSK Eintragungen,"
+
+msgctxt "#30065"
+msgid "[I]Limit movie selection based on MPAA rating[/I]"
+msgstr "Die [I]Begrenze Filme nach Altersbeschränkung[/I]"
+
+msgctxt "#30066"
+msgid "setting will be disabled."
+msgstr "Einstellung wird deaktiviert."
+
+msgctxt "#30067"
+msgid "None of your movies has a Content rating, so the"
+msgstr "Keiner deiner Filme hat Content rating,"
+
+msgctxt "#30068"
+msgid "[I]Limit TV show selection based on Content rating[/I]"
+msgstr "Die [I]Begrenze Serien nach Content rating[/I]"
+
+msgctxt "#30069"
+msgid "setting will be disabled."
+msgstr "Einstellung wird deaktiviert."
+
+msgctxt "#30070"
+msgid "There was a problem accessing the Kodi database."
+msgstr "Es gab ein Problem mit dem Zugriff auf die Kodi Datenbank."
+
+msgctxt "#30071"
+msgid "The error message is:"
+msgstr "Die Fehlermeldung lautet:"
+
+msgctxt "#30100"
+msgid "Play Movie Quiz"
+msgstr "Film-Quiz spielen"
+
+msgctxt "#30101"
+msgid "Play TV Quiz"
+msgstr "Serien-Quiz spielen"
+
+msgctxt "#30102"
+msgid "Highscores"
+msgstr "Highscores"
+
+msgctxt "#30103"
+msgid "Exit"
+msgstr "Beenden"
+
+msgctxt "#30104"
+msgid "Change player"
+msgstr "Spieler wechseln"
+
+msgctxt "#30105"
+msgid "Go back"
+msgstr "Zurück"
+
+msgctxt "#30106"
+msgid "Play Music Quiz"
+msgstr "Musik Quiz spielen"
+
+msgctxt "#30110"
+msgid "[B]Movie collection trivia[/B]"
+msgstr "[B]Film Trivia[/B]"
+
+msgctxt "#30111"
+msgid "%d movies"
+msgstr "%d Filme"
+
+msgctxt "#30112"
+msgid "%d actors"
+msgstr "%d Schauspieler"
+
+msgctxt "#30113"
+msgid "%d directors"
+msgstr "%d Regisseure"
+
+msgctxt "#30114"
+msgid "%d studios"
+msgstr "%d Studios"
+
+msgctxt "#30115"
+msgid "%d hours of entertainment"
+msgstr "%d Stunden Unterhaltung"
+
+msgctxt "#30120"
+msgid "[B]TV shows collection trivia[/B]"
+msgstr "[B]TV Serien Trivia[/B]"
+
+msgctxt "#30121"
+msgid "%d TV shows"
+msgstr "%d TV Serien"
+
+msgctxt "#30122"
+msgid "%d seasons"
+msgstr "%d Staffeln"
+
+msgctxt "#30123"
+msgid "%d episodes"
+msgstr "%d Folgen"
+
+msgctxt "#30130"
+msgid "One minute"
+msgstr "Eine Minute"
+
+msgctxt "#30131"
+msgid "%s minutes"
+msgstr "%s Minuten"
+
+msgctxt "#30132"
+msgid "%s questions"
+msgstr "%s Fragen"
+
+msgctxt "#30133"
+msgid "%d questions left"
+msgstr "Noch %d Fragen"
+
+msgctxt "#30134"
+msgid "Last question"
+msgstr "Letzte Frage"
+
+msgctxt "#30135"
+msgid "%d mins. left"
+msgstr "Noch %d Minuten"
+
+msgctxt "#30400"
+msgid "What movie is this?"
+msgstr "Welcher Film ist das?"
+
+msgctxt "#30401"
+msgid "What movie is [B]%s[/B] not in?"
+msgstr "In welchem Film spielt [B]%s[/B] nicht mit?"
+
+msgctxt "#30402"
+msgid "What year was [B]%s[/B] released?"
+msgstr "In welchem Jahr wurde [B]%s[/B] veröffentlicht?"
+
+msgctxt "#30403"
+msgid "What tagline belongs to [B]%s[/B]?"
+msgstr "Welche Tagline gehört zu [B]%s[/B]?"
+
+msgctxt "#30404"
+msgid "Who directed [B]%s[/B]?"
+msgstr "Wer führte Regie bei [B]%s[/B]?"
+
+msgctxt "#30405"
+msgid "What studio released [B]%s[/B]?"
+msgstr "Welches Studio veröffentlichte [B]%s[/B]?"
+
+msgctxt "#30406"
+msgid "What actor is this?"
+msgstr "Welcher Schauspieler ist das?"
